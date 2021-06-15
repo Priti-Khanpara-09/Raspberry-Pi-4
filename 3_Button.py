@@ -1,4 +1,4 @@
-# This is Button Practical
+# This is Button Program
 
 from gpiozero import LED, Button
 from time import sleep
