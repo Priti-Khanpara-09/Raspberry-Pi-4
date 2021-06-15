@@ -1,4 +1,4 @@
-# This is Led Blinking Practical
+# This is Led Blinking Program
 
 from gpiozero import LED
 from time import sleep
