@@ -3,7 +3,7 @@
 from gpiozero import LED
 from time import sleep
 
-led = LED(17) #deffine GPIO17 pin as LED
+led = LED(17) #define GPIO17 pin as LED
 
 while True:
     led.on() #LED ON
